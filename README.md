@@ -22,3 +22,9 @@ python single_video_test.py --config "config.cfg"
 下载以下链接中的文件，解压放在根目录即可
 [测试视频](https://www.jianguoyun.com/p/DXdEQFgQovDTBhjv3_4B)
 [model](https://www.jianguoyun.com/p/Db_23N4QovDTBhjF3_4B)
+
+
+
+## 数据集为20BN-Jester
+[数据集地址](https://20bn.com/datasets/jester)
+共包含27个类别
